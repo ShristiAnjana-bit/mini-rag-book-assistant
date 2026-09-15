@@ -1,0 +1,19 @@
+Pride and Prejudice
+Author: Jane Austen
+Genre: Romance, Domestic Fiction
+Description: A novel about Elizabeth Bennet, Mr. Darcy, relationships, social class, first impressions, and changing perceptions.
+
+Alice's Adventures in Wonderland
+Author: Lewis Carroll
+Genre: Fantasy, Children's Fiction
+Description: Alice falls down a rabbit hole and enters a strange world filled with unusual characters, adventures, and imaginative situations.
+
+The Adventures of Sherlock Holmes
+Author: Arthur Conan Doyle
+Genre: Mystery, Detective Fiction
+Description: A collection of mysteries featuring Sherlock Holmes and Dr. Watson, highlighting Holmes's observation, reasoning, and deductive methods.
+
+Frankenstein
+Author: Mary Shelley
+Genre: Gothic Fiction, Science Fiction
+Description: Victor Frankenstein creates a living being through an experiment, leading to consequences involving ambition, responsibility, isolation, and humanity.
